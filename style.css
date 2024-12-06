@@ -1,0 +1,22 @@
+p
+
+{
+    font-weight: bold;
+    color:red;
+    font-size:x-large;
+
+    }
+
+    body{
+        background-color: rgb(255, 127, 238);
+        font-family: "Edu AU VIC WA NT Pre";
+    }
+
+    
+    img{
+        width:300px;
+        border:10px;
+        border-color:blue;
+        border-style: dashed;
+
+    }
